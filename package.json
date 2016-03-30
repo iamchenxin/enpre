@@ -1,8 +1,9 @@
 {
-  "name": "redux-t",
+  "name": "enpre",
   "version": "1.0.0",
   "description": "frist redux",
   "main": "index.js",
+  "repository": "iamchenxin/enpre",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "webdev": "node_modules/.bin/webpack-dev-server --hot --inline --content-base dst/client/",
@@ -10,9 +11,7 @@
     "lint2": "node_modules/eslint/bin/eslint.js ."
   },
   "keywords": [
-    "for",
-    "test",
-    "redux"
+    "enpre"
   ],
   "author": "iamchenxin",
   "license": "ISC",
